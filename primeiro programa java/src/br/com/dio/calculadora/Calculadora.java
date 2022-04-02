@@ -14,6 +14,8 @@ public class Calculadora {
 		System.out.println("Digite o segundo valor: ");
 		b = scan.nextInt();
 		
+		System.out.println("X-Salada");
+		
 		int soma = soma(a, b);
 		int subtracao = subtracao(a, b);
 		int divisao = divisao(a, b);
